@@ -8,6 +8,7 @@ Section Box
 
 **Section Box** is the most complete Blender addon for creating cross sections for architecture visualization, product designs and more.
 Show your projects from every angle, place and distance no matter how complex they are.
+|
 
 Features
 --------
@@ -35,6 +36,6 @@ Contents
    installation
    update
    changelog
-   star_connect_mode
+   features
    contact
 |

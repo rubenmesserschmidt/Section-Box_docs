@@ -1,16 +1,16 @@
 Update
 ######
 
-Star Connect
+Section Box
 *************
 
 .. warning::
-    DO NOT deinstall the old version of Star Connect!
+    DO NOT deinstall the old version of Section Box!
     Otherwise all preferences will be gone and reseted to the default.
     Instead follow the following instructions without touching the old version.
 
 1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
-#. Enjoy the new version of Star Connect.
+#. Enjoy the new version of Section Box.
  
 
 Blender Version
