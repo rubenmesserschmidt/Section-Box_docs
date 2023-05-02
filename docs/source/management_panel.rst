@@ -53,14 +53,14 @@ Section Box Settings
      - Boolean
      - Shader
    * - Wireframe
-     - ✔
-     - 
+     - ✅
+     - ❌
    * - Solid
-     - 
-     - 
+     - ✅
+     - ❌
    * - Material Preview
-     - 
-     - 
+     - ✅
+     - ✅
    * - Rendered
-     - 
-     - 
+     - ✅
+     - ✅ *Eevee only*
