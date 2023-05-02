@@ -36,7 +36,7 @@ Contents
    installation
    update
    changelog
-   features
+   create
    management_panel
    preferences
    contact
