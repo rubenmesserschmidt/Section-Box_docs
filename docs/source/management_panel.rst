@@ -15,9 +15,9 @@ Section Box Outliner
  
  :Hide: Toggle whether the bounding box of the section box should be visible or not. This won't affect the visibility of the sections made from the box.
 
-.. _section_box_reload:
  :Reload: *Collection Section Boxes only!* When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
  
 
+**
 
 
