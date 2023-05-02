@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Star Connect'
+project = 'Section Box'
 copyright = '2023, Ruben Messerschmidt'
 author = 'Ruben Messerschmidt'
 
