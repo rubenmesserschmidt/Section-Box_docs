@@ -2,8 +2,8 @@ Preferences
 ###########
 
 
-General Settings
-****************
+Settings
+********
  
 **Show Menu**
  When enabled the create section box operator will be displayed inside the *Object Context Menu*.

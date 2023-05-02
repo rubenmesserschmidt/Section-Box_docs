@@ -2,12 +2,12 @@ Management Panel
 ################
 
 
-Section Box List
-****************
+Outliner
+********
 
 Here are all section boxes listed which are inside the current scene.
 
-**List Entry**
+**Entry**
  
  Represents one section box inside the current scene, giving you access to the following features.
  
@@ -23,7 +23,7 @@ Here are all section boxes listed which are inside the current scene.
  :Reload: (:ref:`Collection Section Box <From Collection>` only!) When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
 
 |
-**List Operators**
+**Operators**
 
  Manage your section box list with the following features.
 
@@ -34,9 +34,9 @@ Here are all section boxes listed which are inside the current scene.
  :Move: Either move entries up or down in the list.
 
 
-|
-Section Box Settings
-********************
+
+General Settings
+****************
 
  Here are all settings located regarding the whole section box.
 
@@ -91,3 +91,30 @@ Section Box Settings
    * - Depends on
      - *Amount Triangles*
      - *Amount Materials*
+
+
+* **(Boolean) Material**: The material which will be applied to the faces capping the sections.
+ :From Mesh: The material of the nearby faces will be used respectively, giving the most realistic result.
+ :Custom Material: Choose any  material you have available inside your project!
+
+
+* **(Shader) Color**: The color of the sections.
+ :Color: Any RGB color you want!
+
+
+* **Invert**: When enabled, everything what's inside the section box will be cutted away and everything what's outside will be shown.
+
+
+
+Plane Settings
+**************
+
+Here are all settings located regarding the 6 individual planes the section box consists of.
+
+**Transform**
+ :Plane Transform: The amount of meters the plane is shifted along the direction of it's normal inside the box.
+ :Edge Transform: The amount of meters each edge is additionally shifted along the direction of the plane.
+
+|
+**Cross Section**
+ :

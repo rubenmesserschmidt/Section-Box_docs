@@ -37,7 +37,8 @@ Contents
    update
    changelog
    create
-   management_panel
+   transform
+   panel
    preferences
    contact
 |
