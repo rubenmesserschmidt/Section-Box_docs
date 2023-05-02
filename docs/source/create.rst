@@ -1,13 +1,16 @@
-Create
-######
+Create Section Box
+##################
 
 .. warning::
     When working with section boxes there will be 3 collections created.
+    
     The first named ``section_boxes.SceneXXX`` storing all section boxes.
+
     The second named ``section_box_tmps`` storing mesh versions of all non-mesh objects included in the box.
+
     The third, if any cross sections active, named ``cross_sections`` storing all cross section objects.
 
-    Do NOT delete any of them! They will be automatically managed by the addon.
+    Do NOT delete or rename any of them! They will be automatically managed by the addon.
 
 
 
@@ -38,8 +41,8 @@ Empty
  *Tip*: :ref:`Reset <General Settings>` the section box to automatically bound all hitted objects afterwards.
 
 |
-Delete
-######
+Delete Section Box
+##################
 
 Press ``X`` to delete the selected section box. Alternatively you can choose *Remove* under the :ref:`Section Box Outliner`.
  
