@@ -17,7 +17,7 @@ From Collection
  
  The instantiation works just like for a normal section box but with the method always set to *Boolean*.
  
- With *Collection Section Boxes* you get the option to *Reload* whenever you change the content of it's collection to include/exclude the added/removed objects from the section box.
+ With *Collection Section Boxes* you get the option to :ref:`section_box_reload`.
 
 |
 Empty
@@ -25,7 +25,7 @@ Empty
  When no objects selected you can create an emtpy section box located at the 3D Cursor by choosing *Section Box* just like when instantiating from a selection.
 
  This box will detect which objects it's hitting and includes them automatically. This is especially useful in huge scenes with massive amounts of objects.
- 
+
  *Tip*: :ref:`Reset` the section box to automatically bound all hitted objects afterwards.
  
  
