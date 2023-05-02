@@ -45,7 +45,7 @@ Section Box Settings
 
  :Shader: The sections are created by making use of a custom shader applied to the materials of all affected objects. If there is no material applied, it will automatically create one.
 
-.. list-table:: Method Comparison
+.. list-table:: Method Comparison - Viewport Shading
    :widths: 50 25 25
    :header-rows: 1
     
@@ -64,3 +64,33 @@ Section Box Settings
    * - Rendered
      - ✅
      - ✅ *Eevee only*
+
+
+.. list-table:: Method Comparison - Results
+   :widths: 50 25 25
+   :header-rows: 1
+    
+   * - Results
+     - Boolean
+     - Shader
+   * - Capping
+     - ✅
+     - ❌
+   * - Customization
+     - *Mesh/Any Material*
+     - *Flat Color*
+
+
+.. list-table:: Method Comparison - Performance
+   :widths: 50 25 25
+   :header-rows: 1
+    
+   * - Performance
+     - Boolean
+     - Shader
+   * - Performant
+     - 🟡
+     - 🟢
+   * - Depends on
+     - *Amount Triangles*
+     - *Amount Materials*
