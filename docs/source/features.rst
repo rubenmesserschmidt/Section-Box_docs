@@ -17,7 +17,7 @@ From Collection
  
  The instantiation works just like for a normal section box but with the method always set to *Boolean*.
  
- With *Collection Section Boxes* you get the option to :ref:`Section Box Outliner <Reload>`.
+ With *Collection Section Boxes* you get the option to :ref:`Reload <Section Box Outliner>`.
 
 |
 Empty
