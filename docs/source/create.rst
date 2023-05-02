@@ -1,6 +1,14 @@
 Create Section Box
 ##################
 
+:.. warning:: When working with section boxes there will be 3 collections created.
+    The first named ``section_boxes.SceneXXX`` storing all section boxes.
+    The second named ``section_box_tmps`` storing mesh versions of all non-mesh objects included in the box.
+    The third, if any cross sections active, named ``cross_sections`` storing all cross section objects.
+
+    Do NOT delete any of them! They will be automatically managed by the addon.
+
+
 
 From Selection
 **************
@@ -26,7 +34,7 @@ Empty
 
  This box will detect which objects it's hitting and includes them automatically. This is especially useful in huge scenes with massive amounts of objects.
 
- *Tip*: :ref:`Reset` the section box to automatically bound all hitted objects afterwards.
+ *Tip*: :ref:`Reset <General Settings>` the section box to automatically bound all hitted objects afterwards.
  
  
 
