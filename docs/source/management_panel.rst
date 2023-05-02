@@ -45,13 +45,16 @@ Section Box Settings
 
  :Shader: The sections are created by making use of a custom shader applied to the materials of all affected objects. If there is no material applied, it will automatically create one.
 
-.. list-table:: Method Comparison - Viewport Shading
+.. list-table:: Method Comparison
    :widths: 50 25 25
    :header-rows: 1
     
-   * - Viewport Shading
+   * - 
      - Boolean
      - Shader
+   * - **Viewport Shading**
+     - 
+     - 
    * - Wireframe
      - ✅
      - ❌
@@ -67,7 +70,7 @@ Section Box Settings
    * - 
      - 
      - 
-   * - *Results*
+   * - **Results**
      - 
      - 
    * - Capping
@@ -79,10 +82,10 @@ Section Box Settings
    * - 
      - 
      - 
-   * - *Performance*
+   * - **Performance**
      - 
      - 
-   * - Performant
+   * - Speed
      - 🟡
      - 🟢
    * - Depends on
