@@ -7,7 +7,7 @@ Settings
  
 **Show Menu**
  When enabled the create section box operator will be displayed inside the *Object Context Menu*.
- Else you can only create section boxes through the :ref:`Section Box Outliner`.
+ Else you can only create section boxes through the :ref:`Outliner`.
 
 |
 **Lazy Load**

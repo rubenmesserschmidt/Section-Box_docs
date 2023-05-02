@@ -20,16 +20,16 @@ Here are all section boxes listed which are inside the current scene.
 
  :Hide: Toggle whether the bounding box of the section box should be visible or not. This won't affect the visibility of the sections made from the box.
 
- :Reload: (:ref:`Collection Section Box <From Collection>` only!) When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
+ :Reload: (Collection Section Boxes only!) When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
 
 |
 **Operators**
 
  Manage your section box list with the following features.
 
- :Add: :ref:`Create <Create Section Box>` a section box based just like when creating through the *Object Context Menu*.
+ :Add: :ref:`Create` a section box based just like when creating through the *Object Context Menu*.
 
- :Remove: :ref:`Delete <Delete Section Box>` the selected section box.
+ :Remove: :ref:`Delete` the selected section box.
 
  :Move: Either move entries up or down in the list.
 
@@ -117,4 +117,7 @@ Here are all settings located regarding the 6 individual planes the section box 
 
 |
 **Cross Section**
- :
+ :Enable: When enabled the cross section will be generated in form of a 2D Mesh floating over the plane.
+ :Distance: Determine how many meters away the cross section mesh will be from the center of the plane.
+ :Clear Outer: When enabled the cross section will be also influenced by the sections of the other planes.
+ :Export: Convert the cross section into a DXF file and save it at a location of your choice.
