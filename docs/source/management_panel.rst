@@ -53,5 +53,14 @@ Section Box Settings
      - Boolean
      - Shader
    * - Wireframe
-     - :check:
-     - :check:
+     - ✔
+     - 
+   * - Solid
+     - 
+     - 
+   * - Material Preview
+     - 
+     - 
+   * - Rendered
+     - 
+     - 
