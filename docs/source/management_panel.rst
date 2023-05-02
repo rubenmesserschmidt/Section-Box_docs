@@ -50,7 +50,8 @@ Section Box Settings
    :header-rows: 1
     
    * - Viewport Shading
-   * - Boolean
-   * - Shader
+     - Boolean
+     - Shader
    * - Wireframe
-   * - :check:
+     - :check:
+     - :check:
