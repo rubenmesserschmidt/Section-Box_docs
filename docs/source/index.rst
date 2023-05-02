@@ -36,6 +36,7 @@ Contents
    installation
    update
    changelog
+   management_panel
    features
    contact
 |
