@@ -64,30 +64,24 @@ Section Box Settings
    * - Rendered
      - ✅
      - ✅ *Eevee only*
-
-
-.. list-table:: Method Comparison - Results
-   :widths: 50 25 25
-   :header-rows: 1
-    
-   * - Results
-     - Boolean
-     - Shader
+   * - 
+     - 
+     - 
+   * - *Results*
+     - 
+     - 
    * - Capping
      - ✅
      - ❌
    * - Customization
      - *Mesh/Any Material*
-     - *Flat Color*
-
-
-.. list-table:: Method Comparison - Performance
-   :widths: 50 25 25
-   :header-rows: 1
-    
-   * - Performance
-     - Boolean
-     - Shader
+     - *Flat Color*  
+   * - 
+     - 
+     - 
+   * - *Performance*
+     - 
+     - 
    * - Performant
      - 🟡
      - 🟢
