@@ -46,7 +46,3 @@ Delete
 ******
 
 Press ``X`` to delete the selected section box. Alternatively you can choose *Remove* under the :ref:`Outliner`.
- 
- 
-
-
