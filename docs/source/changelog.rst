@@ -9,7 +9,7 @@ Changelog
 
 .. |
 .. * **Bug Fixes**
-..  **Hotkeys**: Hotkeys are not causing any issues after a certain order of actions anymore.
+..  **Unhide**: Fixed the appearing of helper objects when unhiding all objects with ``ALT + H``.
 
 
  

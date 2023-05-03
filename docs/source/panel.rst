@@ -14,7 +14,7 @@ Here are all section boxes listed which are inside the current scene.
  :Select: By clicking on a listed section box it gets selected and automatically selected in the viewport as well.
           The same goes the other way around, when selecting a section box in the viewport it will be selected automatically in the hierarchy.
 
- :Rename: 
+ :Rename: By double clicking on a listed section box you can giving it any name you want.
 
  :Enable: When ticked, the section box is enabled, else the section box gets disabled which is like it doesn't exist.
 
@@ -22,7 +22,6 @@ Here are all section boxes listed which are inside the current scene.
 
  :Reload: (Collection Section Boxes only!) When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
 
-|
 **Operators**
 
  Manage your section box list with the following features.
@@ -38,7 +37,7 @@ Here are all section boxes listed which are inside the current scene.
 General Settings
 ****************
 
- Here are all settings located regarding the whole section box.
+ Here are all settings located regarding the selected section box.
 
 * **Method**: The technique used for calculating and displaying the sections.
  :Boolean: The sections are created by making use of a dynamic boolean modifier setup.
@@ -99,7 +98,7 @@ General Settings
 
 
 * **(Shader) Color**: The color of the sections.
- :Color: Any RGB color you want!
+ :Color: Any RGB color you want! On creation it will be the determined default color in the :ref:`Settings` under the addon preferences.
 
 
 * **Invert**: When enabled, everything what's inside the section box will be cutted away and everything what's outside will be shown.
@@ -109,15 +108,14 @@ General Settings
 Plane Settings
 **************
 
-Here are all settings located regarding the 6 individual planes the section box consists of.
+Here are all settings located regarding the 6 individual planes the selected section box consists of.
 
 **Transform**
- :Plane Transform: The amount of meters the plane is shifted along the direction of it's normal inside the box.
- :Edge Transform: The amount of meters each edge is additionally shifted along the direction of the plane.
+ * **Plane Transform**: The amount of meters the plane is shifted along the direction of it's normal inside the box.
+ * **Edge Transform**: The amount of meters each edge is additionally shifted along the direction of the plane.
 
-|
 **Cross Section**
- :Enable: When enabled the cross section will be generated in form of a 2D Mesh floating over the plane.
- :Distance: Determine how many meters away the cross section mesh will be from the center of the plane.
- :Clear Outer: When enabled the cross section will be also influenced by the sections of the other planes.
- :Export: Convert the cross section into a DXF file and save it at a location of your choice.
+ * **Enable**: When enabled the cross section will be generated in form of a 2D Mesh floating over the plane.
+ * **Distance**: Determine how many meters away the cross section mesh will be from the center of the plane.
+ * **Clear Outer**: When enabled the cross section will be also influenced by the sections of the other planes.
+ * **Export**: Convert the cross section into a DXF file and save it at a location of your choice.
