@@ -118,4 +118,8 @@ Here are all settings located regarding the 6 individual planes the selected sec
  * **Enable**: When enabled the cross section will be generated in form of a 2D Mesh floating over the plane.
  * **Distance**: Determine how many meters away the cross section mesh will be from the center of the plane.
  * **Clear Outer**: When enabled the cross section will be also influenced by the sections of the other planes.
- * **Export**: Convert the cross section into a DXF file and save it at a location of your choice.
+ * **Export**:
+   **DXF**: Convert the cross section into a DXF file and save it at a location of your choice.
+   **Object**: Convert the cross section into a Object which you can work with in Blender.
+  :Clean Mesh: Dissolve vertices that don't hold any shape of the cross section.
+  :Angle Threshold: Include only vertices that form an lower angle between their adjacent edges than this value.
