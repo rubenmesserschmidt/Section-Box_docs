@@ -9,15 +9,15 @@ New Features
 ^^^^^^^^^^^^
 
 * **Expanded Preferences**: Added more default settings.
-  : :ref:`Default Material <Settings>`
-  : :ref:`Default Empty Size <Settings>`
+  :Default Material: :ref:`See here <Settings>`.
+  :Default Empty Size: :ref:`See here <Settings>`.
 |
 
 * **Export Object**: Added the option to export cross sections as object for use inside blender.
 |
 
 * **Export DXF Settings**: Added more export settings.
-  : :ref:`Clean Mesh <Settings>`
+  :Clean Mesh: :ref:`See here <Settings>`.
 |
 
 * **Hide Render**: Added the option to hide the sections in renders only.
