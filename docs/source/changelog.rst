@@ -17,7 +17,7 @@ New Features
 |
 
 * **Export DXF Settings**: Added more export settings.
-   :Clean Mesh: :ref:`See here <Settings>`.
+   :Clean Mesh: :ref:`See here <Plane Settings>`.
 |
 
 * **Hide Render**: Added the option to hide the sections in renders only.
