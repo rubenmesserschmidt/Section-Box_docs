@@ -10,9 +10,9 @@ New Features
 ============
 
 * **Expanded Preferences**
-  Added more default settings.
-  :Default Material: :ref:`See here <Settings>`.
-  :Default Empty Size: :ref:`See here <Settings>`.
+   Added more default settings.
+   :Default Material: :ref:`See here <Settings>`.
+   :Default Empty Size: :ref:`See here <Settings>`.
 
 * **Export Object**: Added the option to export cross sections as object for use inside blender.
 
