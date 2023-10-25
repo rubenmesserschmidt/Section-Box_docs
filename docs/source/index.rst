@@ -37,6 +37,7 @@ Contents
    manage
    transform
    menu
+   settings
    preferences
    update
    changelog
