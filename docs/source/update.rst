@@ -1,8 +1,10 @@
+======
 Update
-######
+======
 
+***********
 Section Box
-*************
+***********
 
 .. warning::
     DO NOT deinstall the old version of Section Box!
@@ -13,6 +15,7 @@ Section Box
 #. Enjoy the new version of Section Box.
  
 
+***************
 Blender Version
 ***************
 

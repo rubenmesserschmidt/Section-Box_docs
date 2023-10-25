@@ -24,6 +24,5 @@ Written Tutorial
 #. Click the *Install add-on from file* button.
 #. Search for the Add-on by typing **Section Box** in the search box if it does not already appear.
 #. Tick the checkbox next to the Add-on to enable it.
-#. To use the DXF Export option also make sure to enable the addon 'Export Autocad DXF Format (.dxf)'.
 
 If you have any issues feel free to get in touch via :doc:`contact`.

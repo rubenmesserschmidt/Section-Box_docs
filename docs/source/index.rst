@@ -31,14 +31,14 @@ Contents
 ########
 
 .. toctree::
-   :maxdepth: 2
-
-   installation
-   manage
-   transform
-   menu
-   settings
-   preferences
-   update
-   changelog
-   contact
+    :maxdepth: 2
+    
+    installation
+    manage
+    transform
+    menu
+    settings
+    preferences
+    update
+    changelog
+    contact
