@@ -34,7 +34,7 @@ Contents
    :maxdepth: 2
 
    installation
-   create
+   manage
    transform
    menu
    preferences

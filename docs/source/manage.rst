@@ -1,3 +1,7 @@
+======
+Manage
+======
+
 ######
 Create
 ######
@@ -35,6 +39,8 @@ Create
 
  *Tip*: :ref:`Reset <Settings>` the section box to automatically bound all hitted objects afterwards.
 
+######
+Delete
+######
 
-**Delete**
- Press ``X`` to delete the selected section box. Alternatively you can choose *Remove* under the :ref:`Outliner`.
+Press ``X`` to delete the selected section box. Alternatively you can choose *Remove* under the :ref:`Outliner`.
