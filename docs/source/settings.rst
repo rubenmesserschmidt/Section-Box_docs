@@ -124,7 +124,7 @@ Export
 ******
 
 **Format**
-  The format of the exported file.
+  The format of the export.
 
   :DXF: Export the cross section as DXF.
   :Object: Export the cross section into a Object for further use in Blender.

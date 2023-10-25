@@ -15,8 +15,8 @@ Settings
 Each outliner entry represents one section box, giving you access to the following settings:
 
 **Select**
- By clicking on a listed section box it gets selected and automatically selected in the viewport as well.
- The same goes the other way around, when selecting a section box in the viewport it will be selected automatically in the hierarchy.
+By clicking on a listed section box it gets selected and automatically selected in the viewport as well.
+The same goes the other way around, when selecting a section box in the viewport it will be selected automatically in the hierarchy.
 
 **Rename**
  By double clicking on a listed section box you can giving it any name you want.
@@ -40,13 +40,13 @@ Operations
 On the right side of the outliner you can perform the following operations:
 
 **Create**
- :ref:`Create` a new section box. This works the same as the create option in the *Object Context Menu*.
+  :ref:`Create` a new section box. This works the same as the create option in the *Object Context Menu*.
 
 **Delete**
- :ref:`Delete` the active section box.
+  :ref:`Delete` the active section box.
 
 **Move**
- Move entries up or down in the list.
+Move entries up or down in the list.
 
 **Apply**
  Apply the active section box to their objects. This will also delete the section box.
