@@ -23,7 +23,7 @@ Edge Transform
 **************
 
 You can move the edges of each plane additionally to create a huge variety of shapes.
-Or transform them by a specified amount with the :ref:`Edge Transform <transform>` setting.
+Or transform them by a specified amount with the :ref:`Edge Transform <settings:Transform>` setting.
 
 Therefor click the plane which edges you want to move once, then hold ``E`` to enable handles located on each edge. You can change this hotkey in the :ref:`Preferences <keymap>`
 

@@ -16,16 +16,16 @@ New Features
 **Export Object**
     Added the option to export cross sections as object for use inside blender.
 
-**Export DXF Settings**:
+**Export DXF Settings**
     Added more export settings.
 
-**Hide Render**:
+**Hide Render**
     Added the option to hide the sections in renders only.
 
-**Loading Indicator**:
+**Loading Indicator**
     Loading is now indicated by the mouse cursor when using performance heavy features on more complex objects, to make clear when a operation is finished.
 
-**Merge Panels**:
+**Merge Panels**
     Added the option to merge all panels of my addons into a single panel called *Ruben's Addons*. You'll find the option under the addon preferences (*Edit>Preferences>Add-Ons>Section Box*).
 
 *********
