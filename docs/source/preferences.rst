@@ -14,8 +14,9 @@ General Settings
  :Default: ``Enabled``
 
 **Method**
-  The method you want to use to create a section box. The *Shader* method is faster but does not support solid viewport shading.
-  :Default: ``Shader``
+The method you want to use to create a section box. The *Shader* method is faster but does not support solid viewport shading.
+
+:Default: ``Shader``
 
 **Margin**
   The margin of the section box. This is the distance between the section box and the actual geometry to prevent z-fighting and unintentional cutting. Use 0.0 to disable the margin.
