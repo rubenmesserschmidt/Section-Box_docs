@@ -31,7 +31,6 @@ Create
 **Empty**
 
  When no objects selected you can create an emtpy section box located at the 3D Cursor by choosing *Section Box* just like when instantiating from a selection.
-
  This box will detect which objects it's hitting and includes them automatically. This is especially useful in huge scenes with massive amounts of objects.
 
  *Tip*: :ref:`Reset <Settings>` the section box to automatically bound all hitted objects afterwards.
