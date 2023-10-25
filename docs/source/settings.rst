@@ -8,9 +8,7 @@ General Settings
 
 Here are all settings of the active section box located.
 
-.. tip:: Default Settings
-
-    All settings can be set as default by right clicking on them and choosing "Set as Default".
+.. tip:: All settings can be set as default by right clicking on them and choosing "Set as Default".
 
 ******
 Method
