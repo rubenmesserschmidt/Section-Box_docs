@@ -2,9 +2,9 @@
 Update
 ======
 
-***********
+###########
 Section Box
-***********
+###########
 
 .. warning::
     DO NOT deinstall the old version of Section Box!
@@ -15,9 +15,9 @@ Section Box
 #. Enjoy the new version of Section Box.
  
 
-***************
+###############
 Blender Version
-***************
+###############
 
 | In the *Quick Setup* menu which appears when you update Blender to a newer version,
 | choose *Load x.x Settings* in the bottom left corner.

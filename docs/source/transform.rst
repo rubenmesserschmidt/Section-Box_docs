@@ -4,9 +4,9 @@ Transform
 
 You can move, rotate, and scale a section box like any other object in Blender.
 
-***************
+###############
 Plane Transform
-***************
+###############
 
 You can move individual planes of the box by clicking and dragging the black handles located in the center of each one.
 Or transform them by a specified amount with the :ref:`Plane Transform <settings:Transform>` setting.
@@ -18,9 +18,9 @@ Or transform them by a specified amount with the :ref:`Plane Transform <settings
     Press ``RIGHT CLICK`` or ``ESC`` while moving, to reset the plane to its last location.
 
 
-**************
+##############
 Edge Transform
-**************
+##############
 
 You can move the edges of each plane additionally to create a huge variety of shapes.
 Or transform them by a specified amount with the :ref:`Edge Transform <settings:Transform>` setting.

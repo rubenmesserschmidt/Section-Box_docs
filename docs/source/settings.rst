@@ -95,9 +95,11 @@ Transform
 
 **Plane Transform**
     The amount of meters the plane is shifted away from the section box.
+    Can also be modified in the viewport by using the handles, see :ref:`here <transform:Plane Transform>`.
 
 **Edge Transform**
     The amount of meters each edge is additionally shifted away. This is useful to create diagonal sections.
+    Can also be modified in the viewport by using the handles, see :ref:`here <transform:Edge Transform>`.
 
 *******
 Section
