@@ -1,5 +1,6 @@
-Create/Delete
-#############
+######
+Create
+######
 
 .. warning::
     When working with section boxes there will be 3 collections created.
@@ -12,7 +13,8 @@ Create/Delete
 
     Do NOT delete or rename any of them! They will be automatically managed by the addon.
 
-|
+
+******
 Create
 ******
 

@@ -1,7 +1,8 @@
-Management Panel
+################
+General Settings
 ################
 
-
+********
 Outliner
 ********
 
