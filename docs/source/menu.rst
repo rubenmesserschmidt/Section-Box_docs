@@ -30,7 +30,7 @@ Each outliner entry represents one section box, giving you access to the followi
 **Hide Render**
     When ticked, the section box is disabled in renders.
 
-**Reload (Collection Section Boxes only!)**
+**Reload (Collection Section Boxes only)**
     When changing the content of the collection of a Collection Section Box use this feature to include/exclude the added/removed objects from the section box.
 
 **********

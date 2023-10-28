@@ -8,11 +8,17 @@ Section Box
 
 .. warning::
     DO NOT deinstall the old version of Section Box!
-    Otherwise all preferences will be gone and reseted to the default.
-    Instead follow the following instructions without touching the old version.
+
+    Otherwise all old section boxes will get removed automatically and
+    your preferences will be reseted to the default.
+    Instead follow the following instructions.
 
 1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
-#. Enjoy the new version of Section Box.
+#. That's it. Enjoy the new version of Section Box!
+
+.. hint:: 
+    If you want to deinstall the old version of Section Box now, open all files with old section boxes you want to keep first,
+    else they will get cleaned up automatically.
  
 
 ###############

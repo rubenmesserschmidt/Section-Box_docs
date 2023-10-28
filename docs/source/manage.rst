@@ -31,9 +31,16 @@ Create
 
 **Empty**
 	When no objects selected you can create an emtpy section box located at the 3D Cursor by choosing *Section Box* just like when instantiating from a selection.
-	This box will detect which objects it's hitting and includes them automatically. This is especially useful in huge scenes with massive amounts of objects.
+	This box will detect which objects it's hitting and includes them automatically. This is especially useful in huge scenes with huge amounts of objects.
 
 	*Tip*: :ref:`Reset <Settings>` the section box to automatically bound all hitted objects afterwards.
+
+##########
+Add/Remove
+##########
+
+Add objects to a section box by selecting them first, then select the section box and choose *Add Objects* under the *Object Context Menu* (``RIGHT CLICK``).
+The same works for removing objects from a section box by choosing *Remove Objects*.
 
 ######
 Delete

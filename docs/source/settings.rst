@@ -2,6 +2,26 @@
 Settings
 ========
 
+#####
+Views
+#####
+
+Save and load different states of the section box. This works just like a preset system.
+
+**Views List**
+    Load a saved state by selecting it from the list.
+
+**Override**
+    Override the selected view with the current state of the section box.
+
+**Add**
+    Save the current state of the section box as a new view. Make sure to give it a unique name.
+
+**Remove**
+    Remove the selected view from the list.
+
+
+
 ################
 General Settings
 ################
@@ -23,8 +43,8 @@ The technique used for calculating and displaying the sections.
     :Self Intersection: When enabled, the boolean will work with meshes intersecting themselves. This makes the section box slower, so only enable it when needed.
     :Material: The material which will be applied to the faces capping the sections.
 
-        * **From Mesh**: The material of the nearby faces will be used respectively, giving the most realistic result.
-        * **Custom Material**: Choose any  material you have available inside your project!
+        :From Mesh: The material of the nearby faces will be used respectively, giving the most realistic result.
+        :Custom Material: Choose any  material you have available inside your project!
 
 **Shader**
     The sections are created by making use of a custom shader applied to the materials of all affected objects. If there is no material applied, it will automatically create one.
@@ -120,6 +140,25 @@ Section
     :Distance: Meters the generated cross section is away from the plane.
     :Thickness: Line thickness of the generated cross section.
     :Color: Line color of the generated cross section.
+
+*********
+Elevation
+*********
+
+**Create**
+    Create a elevation from the plane. When the plane is intersecting any objects, you need to create a cross section first.
+
+**Link Creation**
+    Link the creation of the elevation to the creation of the cross section. This will automatically create a elevation when you create a cross section.
+
+**Settings**
+    Customize the elevation.
+    
+    :Crease: Amount of degrees to which edges are considered in the elevation. Higher values will result in a more detailed elevation. 
+    :Link: Link the setting to the cross section. This will automatically update the elevation when you update the cross section.
+    :Distance: Meters the generated elevation is away from the plane. (Linkable)
+    :Thickness: Line thickness of the generated elevation. (Linkable)
+    :Color: Line color of the generated elevation. (Linkable)
 
 
 ******

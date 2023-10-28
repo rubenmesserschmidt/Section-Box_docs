@@ -38,6 +38,7 @@ Contents
     transform
     menu
     settings
+    animation
     preferences
     update
     changelog
