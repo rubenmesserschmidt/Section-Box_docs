@@ -2,6 +2,12 @@
 Settings
 ========
 
+All section box specific settings and features regarding the active box are located under the :ref:`Outliner <menu:outliner>`.
+
+.. hint:: All settings can be set as default by right clicking on them and choosing *Set as Default*.
+
+.. tip:: You can also animate every setting by right clicking it and choosing *Insert Keyframe*. 
+
 #####
 Views
 #####
@@ -26,9 +32,8 @@ Save and load different states of the section box. This works just like a preset
 General Settings
 ################
 
-Here are all settings of the active section box located.
+Here are all settings of the active section box located that are affecting the whole box.
 
-.. tip:: All settings can be set as default by right clicking on them and choosing *Set as Default*.
 
 ******
 Method

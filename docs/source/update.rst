@@ -7,7 +7,7 @@ Section Box
 ###########
 
 .. warning::
-    DO NOT deinstall the old version of Section Box!
+    Do NOT uninstall the old version of Section Box!
 
     Otherwise all old section boxes will get removed automatically and
     your preferences will be reseted to the default.
@@ -17,7 +17,7 @@ Section Box
 #. That's it. Enjoy the new version of Section Box!
 
 .. hint:: 
-    If you want to deinstall the old version of Section Box now, open all files with old section boxes you want to keep first,
+    If you want to uninstall the old version of Section Box now, open all files with old section boxes you want to keep first,
     else they will get cleaned up automatically.
  
 
