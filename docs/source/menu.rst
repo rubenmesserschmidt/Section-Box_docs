@@ -40,10 +40,10 @@ Operations
 On the right side of the outliner you can perform the following operations:
 
 **Create**
-    :ref:`Create` a new section box. This works the same as the create option in the *Object Context Menu*.
+    :ref:`manage:create` a new section box. This works the same as the create option in the *Object Context Menu*.
 
 **Delete**
-    :ref:`Delete` the active section box.
+    :ref:`manage:delete` the active section box.
 
 **Move**
     Move entries up or down in the list.
