@@ -23,7 +23,7 @@ General
     :Default: ``0.01``
 
 **Empty Size**
-    The default size of an :ref:`Empty Section Box <Create>`.
+    The default size of an :ref:`Empty Section Box <manage:create>`.
     
     :Default: ``2.0 (Default Cube Size)``
 
@@ -33,7 +33,7 @@ UI
 
 **Show Menu**
     When enabled the create section box operator will be displayed inside the *Object Context Menu*.
-    Else you can only create section boxes through the :ref:`Outliner`.
+    Else you can only create section boxes through the :ref:`menu:outliner`.
     
     :Default: ``Enabled``
     
