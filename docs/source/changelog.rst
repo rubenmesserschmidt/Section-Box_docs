@@ -3,8 +3,23 @@ Changelog
 =========
 
 #####
+2.0.1
+#####
+
+*October 31th, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Create Section Box**
+    Fixed an issue where the section box cutted with an offset on create.
+
+#####
 2.0.0
 #####
+
+*October 30th, 2023*
 
 ************
 New Features
