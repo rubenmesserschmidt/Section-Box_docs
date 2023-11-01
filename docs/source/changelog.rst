@@ -3,6 +3,22 @@ Changelog
 =========
 
 #####
+2.0.2
+#####
+
+*November 1st, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Export DXF**
+    Fixed an issue where the export did not work when using custom colors for displaying cross sections or elevations.
+
+**Export Mesh: Naming**
+    The generated mesh objects from drawings are now properly named.
+
+#####
 2.0.1
 #####
 
