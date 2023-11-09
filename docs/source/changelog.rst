@@ -3,6 +3,29 @@ Changelog
 =========
 
 #####
+2.0.3
+#####
+
+*November 9th, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Select Plane**
+    Fixed an issue where selecting a plane from the viewport resulted in an error message when the view overlapped with the box.
+
+**Views**
+    Loading saved views now considers the transform of all planes.
+
+**Delete Section Box**
+    Fixed an issue where deleting a section box did result in an error when a material of an included object was edited manually.
+
+**Change Workspace**
+    Fixed an issue where changing the workspace gave an error and stopped the handle hovering animation from working.
+
+
+#####
 2.0.2
 #####
 
