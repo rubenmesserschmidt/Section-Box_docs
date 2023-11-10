@@ -3,6 +3,23 @@ Changelog
 =========
 
 #####
+2.0.4
+#####
+
+*November 11th, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Empty Section Box**
+    Fixed an issue where the empty section box auto detecting did not work when there were unapplied transforms.
+
+
+**Enabling Addon afterwards**
+    When opening a file with section boxes in it but without the addon enabled, everything will work immediately after enabling the addon afterwards.
+
+#####
 2.0.3
 #####
 
