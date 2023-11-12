@@ -3,10 +3,23 @@ Changelog
 =========
 
 #####
+2.0.5
+#####
+
+*November 12th, 2023*
+
+************
+New Features
+************
+
+**Compatible with Blender 4.0**
+    Section Box is now compatible with Blender 4.0!
+
+#####
 2.0.4
 #####
 
-*November 11th, 2023*
+*November 10th, 2023*
 
 *********
 Bug Fixes
