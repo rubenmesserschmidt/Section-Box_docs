@@ -3,6 +3,22 @@ Changelog
 =========
 
 #####
+2.0.6
+#####
+
+*November 14th, 2023*
+
+*********
+Bug Fixes
+*********
+
+**Update System**
+    Fixed an issue where Blender crashed when checking for updates on startup.
+
+**Plane Selection**
+    Fixed an issue where selecting a plane from the viewport resulted in an error message when the view overlapped with the box.
+
+#####
 2.0.5
 #####
 
