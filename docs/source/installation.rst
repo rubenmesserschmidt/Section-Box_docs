@@ -21,7 +21,7 @@ Written Tutorial
 1. Go to *Edit/Preferences*.
 #. Select *Add-ons* on the left.
 #. Click *Install...* in the top right corner. This will open a file dialog
-#. Navigate to where you have downloaded the **Section-Box_x.x.x.zip** file. 
+#. Navigate to where you have downloaded the **SectionBox_x.x.x.zip** file. 
    Do not unpack this file.
 #. Click the *Install add-on from file* button.
 #. Search for the Add-on by typing **Section Box** in the search box if it does not already appear.
