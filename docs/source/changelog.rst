@@ -6,7 +6,7 @@ Changelog
 2.0.9
 #####
 
-*January 06th, 2024*
+*January 6th, 2024*
 
 ************
 New Features

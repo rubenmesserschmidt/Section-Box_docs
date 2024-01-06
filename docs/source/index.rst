@@ -2,7 +2,7 @@
 Section Box
 ===========
 
-.. image:: images/SB_BM_thumbnail.jpg
+.. image:: images/sectionbox_gallery_thumbnail.png
    :width: 600
    :alt: Section Box Thumbnail
 

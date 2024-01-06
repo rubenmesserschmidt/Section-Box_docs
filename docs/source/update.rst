@@ -6,13 +6,6 @@ Update
 Section Box
 ###########
 
-.. warning::
-    Do NOT uninstall the old version of Section Box!
-
-    Otherwise all old section boxes will get removed automatically and
-    your preferences will be reseted to the default.
-    Instead follow the following instructions.
-
 1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. That's it. Enjoy the new version of Section Box!
 
