@@ -3,6 +3,35 @@ Changelog
 =========
 
 #####
+2.0.9
+#####
+
+*January 06th, 2024*
+
+************
+New Features
+************
+
+**Update System**
+    Added an 'ignore this update' option.
+
+*********
+Bug Fixes
+*********
+
+**Elevation Performance**
+    Elevations generate much faster now in heavy scenes.
+
+**Elevation Display**
+    Fixed an issue where the elevation got displayed with an offest when the resolution scale setting wasn't at 100% in the render settings.
+
+**Non-Mesh Objects**
+    Fixed an issue were non-mesh objects inside collection instances or in the form of linked objects resulted in an error when creating a section box.
+
+**Update System**
+    Fixed a rare issue where Blender crashed when checking for updates on startup.
+
+#####
 2.0.6
 #####
 

@@ -16,11 +16,6 @@ Section Box
 1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. That's it. Enjoy the new version of Section Box!
 
-.. hint:: 
-    If you want to uninstall the old version of Section Box now, open all files with old section boxes you want to keep first,
-    else they will get cleaned up automatically.
- 
-
 ###############
 Blender Version
 ###############
