@@ -6,6 +6,10 @@ Update
 Section Box
 ###########
 
+.. warning:: 
+    Don't uninstall the old version of Section Box before installing the new one.
+    Otherwise you can lose your preferences.
+
 #. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. Restart Blender.
 #. That's it. Enjoy the new version of Section Box!
