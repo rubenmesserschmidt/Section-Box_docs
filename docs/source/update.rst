@@ -6,7 +6,8 @@ Update
 Section Box
 ###########
 
-1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
+#. Follow the :doc:`installation` instructions and choose the new addon .zip file.
+#. Restart Blender.
 #. That's it. Enjoy the new version of Section Box!
 
 ###############
