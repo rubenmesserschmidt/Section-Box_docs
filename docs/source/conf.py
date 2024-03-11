@@ -3,11 +3,11 @@
 # -- Project information
 
 project = "Section Box"
-copyright = "2023, Ruben Messerschmidt"
+copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "2.0.9"
-version = "2.0.9"
+release = "2.0.15"
+version = "2.0.15"
 
 # -- General configuration
 

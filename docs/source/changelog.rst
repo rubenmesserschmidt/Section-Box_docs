@@ -2,6 +2,23 @@
 Changelog
 =========
 
+######
+2.0.15
+######
+
+*March 11th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Minor Fixes**
+    Fixed a few minor issues.
+
+**Merge Panels**
+    Fixed an issue where the merge panels option did not work properly after restarting Blender.
+
+
 #####
 2.0.9
 #####
