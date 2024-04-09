@@ -2,6 +2,27 @@
 Changelog
 =========
 
+#####
+2.1.0
+#####
+
+*April 9th, 2024*
+
+************
+New Features
+************
+
+**Cross Section Modifier Support**
+    When creating a cross section, the addon now takes modifiers into account.
+
+*********
+Bug Fixes
+*********
+    
+**Section Box Cycles Visibility**
+    The Section Box is now invisible when using Cycles.
+
+
 ######
 2.0.15
 ######
