@@ -2,6 +2,20 @@
 Changelog
 =========
 
+######
+2.1.2
+######
+
+*May 6th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**DXF Export**
+    Fixed an issue where the DXF export was not working.
+
+
 #####
 2.1.0
 #####
