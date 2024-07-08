@@ -3,6 +3,24 @@ Changelog
 =========
 
 ######
+2.1.6
+######
+
+*July 8th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Cross Sections**
+    Fixed an issue where it was not possible to create cross sections.
+
+
+**Delete Section Box**
+    Fixed an issue where an error occured when deleting a section box including an object that was deleted before.
+
+
+######
 2.1.2
 ######
 
