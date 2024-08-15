@@ -2,6 +2,34 @@
 Changelog
 =========
 
+#####
+2.2.0
+#####
+
+*August 15th, 2024*
+
+************
+New Features
+************
+
+**Blender 4.2 Extensions**
+    Section Box now supports Blender 4.2 extensions.
+
+*********
+Bug Fixes
+*********
+
+**Cross Sections**
+    Fixed an issue where the cross section generation failed if there were zero length edges in the mesh.
+
+************
+Known Issues
+************
+
+**(macOS) Elevation**
+    Elevation generation could crash on macOS using Blender 4.2. Hopefully this will work reliable again with the next Blender update.
+
+
 ######
 2.1.6
 ######

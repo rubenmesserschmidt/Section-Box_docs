@@ -6,8 +6,8 @@ project = "Section Box"
 copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "2.0.15"
-version = "2.0.15"
+release = "2.2.0"
+version = "2.2.0"
 
 # -- General configuration
 
