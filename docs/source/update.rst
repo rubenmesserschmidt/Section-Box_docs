@@ -14,6 +14,7 @@ Section Box
 #. Restart Blender.
 #. That's it. Enjoy the new version of Section Box!
 
+
 ###############
 Blender Version
 ###############

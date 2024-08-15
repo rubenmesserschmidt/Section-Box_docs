@@ -1,10 +1,27 @@
-============
+************
 Installation
-============
+************
 
-##############
+Blender 4.2 or higher
+======================
+
+1. Go to *Edit/Preferences*.
+#. Select *Get Extensions* on the left.
+#. Open the menu in the top right corner and choose *Install from Disk...*.
+#. Navigate to where you have downloaded the **SectionBox_x.x.x.zip** file and select it.
+   Do not unpack this file.
+#. Click the *Install from Disk* button.
+#. Go to the *Add-ons* tab.
+#. Search for the Add-on by typing **Section Box** in the search box if it does not already appear.
+#. Tick the checkbox next to the Add-on to enable it if it is not already enabled.
+#. That's it. Enjoy Section Box!
+
+
+Older Versions
+==============
+
 Video Tutorial
-##############
+--------------
 
 .. raw:: html
 
@@ -14,9 +31,8 @@ Video Tutorial
 
 |
 
-################
 Written Tutorial
-################
+----------------
 
 1. Go to *Edit/Preferences*.
 #. Select *Add-ons* on the left.
