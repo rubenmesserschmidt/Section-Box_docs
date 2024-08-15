@@ -7,8 +7,7 @@ Section Box
 ###########
 
 .. warning:: 
-    Don't uninstall the old version of Section Box before installing the new one.
-    Otherwise you can lose your preferences.
+    Important for updating to Section Box 2.2.0: If you are using Blender 4.2 or higher, please remove the old addon before installing the new one.
 
 #. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. Restart Blender.
