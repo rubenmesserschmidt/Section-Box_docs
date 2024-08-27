@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+2.2.1
+#####
+
+*August 27th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**(Linux) Installation Issue**
+    Fixed an issue where the installation failed on Linux.
+
+
+#####
 2.2.0
 #####
 
