@@ -3,6 +3,23 @@ Changelog
 =========
 
 #####
+2.2.2
+#####
+
+*August 28th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Sidebar Panels**
+    Fixed an issue where multiple panels showed up above the main Section Box panel in the sidebar. This also caused a conflict with other addons that use the sidebar.
+
+**Merge Panel**
+    There is now the merge into "Ruben's Addons" panel option again in the addon preferences under display.
+
+
+#####
 2.2.1
 #####
 
