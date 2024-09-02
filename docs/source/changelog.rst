@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+2.2.3
+#####
+
+*September 2nd, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Elevations**
+    Fixed an issue where no elevations where possible when having Section Box installed as legacy addon in Blender 4.2 or above.
+
+
+#####
 2.2.2
 #####
 
