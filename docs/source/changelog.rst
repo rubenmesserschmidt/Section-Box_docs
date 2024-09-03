@@ -3,6 +3,21 @@ Changelog
 =========
 
 #####
+2.2.4
+#####
+
+*September 3rd, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Drawing Creation**
+    When creating cross sections and elevations only visible objects are considered now.
+    Also the section box stays active after creating drawings now.
+
+
+#####
 2.2.3
 #####
 
