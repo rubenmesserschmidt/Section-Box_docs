@@ -3,6 +3,30 @@ Changelog
 =========
 
 #####
+2.3.0
+#####
+
+*September 5th, 2024*
+
+************
+New Features
+************
+
+**Boolean Method: Fast**
+    Added the option to change between 'Fast' and 'Exact' boolean solvers. The 'Fast' method is faster but can result in artifacts on more complex meshes.
+
+**Cross Section: Original**
+    Added the option to create a cross section from the original mesh instead from the section created by the section box. This is particularly useful when the section is not perfect, like when using the 'Fast' boolean method. Most differences will be for loose parts and non-planar faces.
+
+*********
+Bug Fixes
+*********
+
+**Shader Method: Cross Section**
+    Fixed an issue where no cross section was possible when using the shader method.
+
+
+#####
 2.2.4
 #####
 

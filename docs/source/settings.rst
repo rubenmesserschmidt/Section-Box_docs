@@ -44,6 +44,7 @@ The technique used for calculating and displaying the sections.
 **Boolean**
     The sections are created by making use of a dynamic boolean modifier setup.
 
+    :Exact: When enabled, the 'Exact' boolean solver will be used. This is slower but more accurate. Recommended for more complex meshes.
     :Hole Tolerant: When enabled, the boolean will work with meshes containing holes. This makes the section box slower, so only enable it when needed.
     :Self Intersection: When enabled, the boolean will work with meshes intersecting themselves. This makes the section box slower, so only enable it when needed.
     :Material: The material which will be applied to the faces capping the sections.
@@ -142,6 +143,7 @@ Section
     Customize the cross section.
     
     :Entire: When enabled, the cross section will be generated while ignoring all other section planes. To take effect, you need to update the section.
+    :Original: When enabled, the cross section will be generated based on the original mesh, instead of the section from the section box.
     :Distance: Meters the generated cross section is away from the plane.
     :Thickness: Line thickness of the generated cross section.
     :Color: Line color of the generated cross section.
