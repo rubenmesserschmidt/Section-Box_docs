@@ -55,7 +55,7 @@ The technique used for calculating and displaying the sections.
 **Shader**
     The sections are created by making use of a custom shader applied to the materials of all affected objects. If there is no material applied, it will automatically create one.
     
-    :Color: The color of the sections.
+    :Color: The color of the sections. Lowering the alpha value will reduce the coloring of the backfaces (0.0 is no coloring, showing the original material only).
     
 .. list-table:: Method Comparison
    :widths: 50 25 25
@@ -78,7 +78,7 @@ The technique used for calculating and displaying the sections.
      - ✅
    * - Rendered
      - ✅
-     - ✅ *Eevee only*
+     - ✅
    * - 
      - 
      - 

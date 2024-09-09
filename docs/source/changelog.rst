@@ -3,6 +3,23 @@ Changelog
 =========
 
 #####
+2.3.1
+#####
+
+*September 9th, 2024*
+
+************
+New Features
+************
+
+**Shader Method: Cycles Compatible**
+    The shader method is now fully compatible with Cycles.
+
+**Shader Method: Adjust Alpha**
+    You can now change the transparency of the backface coloring when using the shader method. Setting the alpha of the color to 0.0 will add no coloring but shows the original material instead.
+
+
+#####
 2.3.0
 #####
 
