@@ -18,6 +18,8 @@ Bug Fixes
 **Section Material: Not Saved**
     Fixed an issue where the section material turned blank when reopening a file. Now the material is saved and restored properly.
 
+**Numpy Conflicts**
+    Section Box won't install numpy anymore to avoid conflicts with other addons.
 
 #####
 2.3.1
