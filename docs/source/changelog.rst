@@ -3,6 +3,23 @@ Changelog
 =========
 
 #####
+2.3.2
+#####
+
+*September 25th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Cycles: Shading Artifacts**
+    Fixed an issue where shading artifacts appeared on the section when using Cycles.
+
+**Section Material: Not Saved**
+    Fixed an issue where the section material turned blank when reopening a file. Now the material is saved and restored properly.
+
+
+#####
 2.3.1
 #####
 
