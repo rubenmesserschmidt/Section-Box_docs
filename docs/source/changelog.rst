@@ -3,6 +3,26 @@ Changelog
 =========
 
 #####
+2.3.3
+#####
+
+*October 4th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Animate Section Box**
+    Fixed an issue where Blender crashed when rendering an animated section box.
+
+**SVG Importer Addon**
+    The built-in SVG importer addon will now be enabled automatically when creating a drawing.
+
+**Numpy Issues**
+    Fixed an issue where numpy issues occured with other addons when installing Section Box.
+
+
+#####
 2.3.2
 #####
 
@@ -20,6 +40,7 @@ Bug Fixes
 
 **Numpy Conflicts**
     Section Box won't install numpy anymore to avoid conflicts with other addons.
+
 
 #####
 2.3.1
