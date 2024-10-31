@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+2.3.4
+#####
+
+*October 31th, 2024*
+
+************
+Improvements
+************
+
+**Install Python Packages**
+    Section Box now installs required Python packages automatically on first use. This replaces the dependency popup that appeared when installing the addon and is more reliable and user-friendly.
+
+
+#####
 2.3.3
 #####
 
