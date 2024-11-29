@@ -3,6 +3,19 @@ Changelog
 =========
 
 #####
+2.4.0
+#####
+
+*November 29th, 2024*
+
+************
+New Features
+************
+
+**Blender 4.3 Support**
+    Section Box now supports Blender 4.3!
+
+#####
 2.3.4
 #####
 
