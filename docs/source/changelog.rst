@@ -3,6 +3,27 @@ Changelog
 =========
 
 #####
+2.4.1
+#####
+
+*December 13th, 2024*
+
+************
+New Features
+************
+
+**DXF Export: Units Setting**
+    Added the option to set the units for the DXF export. Select this unit when importing the DXF file into other software, if not already detected automatically.
+
+*********
+Bug Fixes
+*********
+
+**Cross Section: Misaligned**
+    Fixed an issue where the cross section was misaligned when exporting an elevation drawing.
+    
+
+#####
 2.4.0
 #####
 

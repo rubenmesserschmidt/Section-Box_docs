@@ -178,6 +178,15 @@ Export
     :DXF: Export the cross section as DXF.
     :Object: Export the cross section into a Object for further use in Blender.
 
+**(DXF) Units**
+    The units of the DXF export.
+    
+    :Meters: Export the cross section in meters.
+    :Centimeters: Export the cross section in centimeters.
+    :Millimeters: Export the cross section in millimeters.
+    :Inches: Export the cross section in inches.
+    :Feet: Export the cross section in feet.
+
 **Clean up**
     Clean up the cross section mesh before export.
     
